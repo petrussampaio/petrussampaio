@@ -12,6 +12,6 @@
 
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="fsociety" src="https://cdn.discordapp.com/attachments/1063568734494658691/1119051283035332639/f-society-mask.gif">
+  <img align="right" alt="fsociety" src="https://cdn.discordapp.com/attachments/1063568734494658691/1119051283035332639/f-society-mask.gif">
 </div>
 
