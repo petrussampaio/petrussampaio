@@ -9,4 +9,12 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+
+##
+
+<a href="https://github.com/petrussampaio/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petrussampaio&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/petrussampaio/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petrussampaio&repo=convoychat" />
+</a>
