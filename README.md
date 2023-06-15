@@ -1,4 +1,4 @@
-## Olá, sou o Petrus!
+## Hi, I'm Petrus
 
 - 👾 C and Python programmer
 - 👨🏻‍💻🔓 Studying and learning cybersecurity
